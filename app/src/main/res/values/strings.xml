@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CarRental</string>
+    <string name="car_rental_tagline">Need a car?\nRent it quickly now!</string>
+    <string name="msg_car_rental">You can choose your ideal car and book it easily with CarRental.</string>
+    <string name="title_find_your_ride">Find Your Ride</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+    <string name="search">Search</string>
+    <string name="dropoff_information">Dropoff Information</string>
+    <string name="pickup_information">Pickup Information</string>
+    <string name="time">Time</string>
+    <string name="title_car_list">What is your choice?</string>
+    <string name="price_day">$%1$.1f / day</string>
+    <string name="book">Book</string>
+    <string name="email">Email</string>
+    <string name="customer_information">Customer Information</string>
+    <string name="name">Name</string>
+    <string name="mobile">Phone Number</string>
+    <string name="total">Total</string>
+    <string name="label_insurance">Would you like to include Insurance?</string>
+
+    <string name="booking_id">Booking Id: %1$s</string>
+</resources>
